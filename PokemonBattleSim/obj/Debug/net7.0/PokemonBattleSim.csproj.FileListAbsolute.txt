@@ -12,17 +12,3 @@ C:\Users\bosda\Desktop\school\software\jaar3\PokemonBattleSim\PokemonBattleSim\o
 C:\Users\bosda\Desktop\school\software\jaar3\PokemonBattleSim\PokemonBattleSim\obj\Debug\net7.0\PokemonBattleSim.pdb
 C:\Users\bosda\Desktop\school\software\jaar3\PokemonBattleSim\PokemonBattleSim\obj\Debug\net7.0\PokemonBattleSim.genruntimeconfig.cache
 C:\Users\bosda\Desktop\school\software\jaar3\PokemonBattleSim\PokemonBattleSim\obj\Debug\net7.0\ref\PokemonBattleSim.dll
-c:\Users\bosda\Desktop\school\software\jaar3\PokemonBattleSimulator\PokemonBattleSim\bin\Debug\net7.0\PokemonBattleSim.exe
-c:\Users\bosda\Desktop\school\software\jaar3\PokemonBattleSimulator\PokemonBattleSim\bin\Debug\net7.0\PokemonBattleSim.deps.json
-c:\Users\bosda\Desktop\school\software\jaar3\PokemonBattleSimulator\PokemonBattleSim\bin\Debug\net7.0\PokemonBattleSim.runtimeconfig.json
-c:\Users\bosda\Desktop\school\software\jaar3\PokemonBattleSimulator\PokemonBattleSim\bin\Debug\net7.0\PokemonBattleSim.dll
-c:\Users\bosda\Desktop\school\software\jaar3\PokemonBattleSimulator\PokemonBattleSim\bin\Debug\net7.0\PokemonBattleSim.pdb
-c:\Users\bosda\Desktop\school\software\jaar3\PokemonBattleSimulator\PokemonBattleSim\obj\Debug\net7.0\PokemonBattleSim.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\bosda\Desktop\school\software\jaar3\PokemonBattleSimulator\PokemonBattleSim\obj\Debug\net7.0\PokemonBattleSim.AssemblyInfoInputs.cache
-c:\Users\bosda\Desktop\school\software\jaar3\PokemonBattleSimulator\PokemonBattleSim\obj\Debug\net7.0\PokemonBattleSim.AssemblyInfo.cs
-c:\Users\bosda\Desktop\school\software\jaar3\PokemonBattleSimulator\PokemonBattleSim\obj\Debug\net7.0\PokemonBattleSim.csproj.CoreCompileInputs.cache
-c:\Users\bosda\Desktop\school\software\jaar3\PokemonBattleSimulator\PokemonBattleSim\obj\Debug\net7.0\PokemonBattleSim.dll
-c:\Users\bosda\Desktop\school\software\jaar3\PokemonBattleSimulator\PokemonBattleSim\obj\Debug\net7.0\refint\PokemonBattleSim.dll
-c:\Users\bosda\Desktop\school\software\jaar3\PokemonBattleSimulator\PokemonBattleSim\obj\Debug\net7.0\PokemonBattleSim.pdb
-c:\Users\bosda\Desktop\school\software\jaar3\PokemonBattleSimulator\PokemonBattleSim\obj\Debug\net7.0\PokemonBattleSim.genruntimeconfig.cache
-c:\Users\bosda\Desktop\school\software\jaar3\PokemonBattleSimulator\PokemonBattleSim\obj\Debug\net7.0\ref\PokemonBattleSim.dll

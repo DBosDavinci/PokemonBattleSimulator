@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\bosda\\Desktop\\school\\software\\jaar3\\PokemonBattleSimulator\\PokemonBattleSim\\PokemonBattleSim.csproj": {}
+    "C:\\Users\\bosda\\Desktop\\school\\software\\jaar3\\PokemonBattleSim\\PokemonBattleSim\\PokemonBattleSim.csproj": {}
   },
   "projects": {
-    "c:\\Users\\bosda\\Desktop\\school\\software\\jaar3\\PokemonBattleSimulator\\PokemonBattleSim\\PokemonBattleSim.csproj": {
+    "C:\\Users\\bosda\\Desktop\\school\\software\\jaar3\\PokemonBattleSim\\PokemonBattleSim\\PokemonBattleSim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\bosda\\Desktop\\school\\software\\jaar3\\PokemonBattleSimulator\\PokemonBattleSim\\PokemonBattleSim.csproj",
+        "projectUniqueName": "C:\\Users\\bosda\\Desktop\\school\\software\\jaar3\\PokemonBattleSim\\PokemonBattleSim\\PokemonBattleSim.csproj",
         "projectName": "PokemonBattleSim",
-        "projectPath": "c:\\Users\\bosda\\Desktop\\school\\software\\jaar3\\PokemonBattleSimulator\\PokemonBattleSim\\PokemonBattleSim.csproj",
+        "projectPath": "C:\\Users\\bosda\\Desktop\\school\\software\\jaar3\\PokemonBattleSim\\PokemonBattleSim\\PokemonBattleSim.csproj",
         "packagesPath": "C:\\Users\\bosda\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\bosda\\Desktop\\school\\software\\jaar3\\PokemonBattleSimulator\\PokemonBattleSim\\obj\\",
+        "outputPath": "C:\\Users\\bosda\\Desktop\\school\\software\\jaar3\\PokemonBattleSim\\PokemonBattleSim\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bosda\\AppData\\Roaming\\NuGet\\NuGet.Config"
