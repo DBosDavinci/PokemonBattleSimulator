@@ -1,9 +1,9 @@
 namespace PokemonBattleSim
 {
-    class Charmander : Pokemon
+    class Squirtle : Pokemon
     {
 
-        public Charmander(string name, string strength, string weakness) : base(name, "Charmander", strength, weakness)
+        public Squirtle(string name, string type, string strength, string weakness) : base(name, "Squirtle", strength, weakness)
         {
             this.name = name;
             this.strength = strength;
