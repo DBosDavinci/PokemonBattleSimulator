@@ -2,17 +2,17 @@ namespace PokemonBattleSim
 {
     class Pokeball
     {
-        Charmander charmander;
+        Pokemon pokemon;
 
-        public Pokeball(Charmander charmander)
+        public Pokeball(Pokemon pokemon)
         {
-            this.charmander = charmander;
+            this.pokemon = pokemon;
         }
 
         public void Open()
         {
             Console.WriteLine("De Pokeball opent.");
-            Console.WriteLine(charmander.BattleCry());
+            Console.WriteLine(pokemon.BattleCry());
         }
 
         public void Close()
