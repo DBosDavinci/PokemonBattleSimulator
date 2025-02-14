@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KaldSpqE28VM9rmWkyYsrG/NoGOgWIqDw9pPOeGW+7MIGIdVTY74QMPHYRzXXWcMyz9XzwL0FKJuTpqDMg1Rgg==",
+  "dgSpecHash": "g8sb3n7KPb0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bosda\\Desktop\\school\\software\\jaar3\\PokemonBattleSim\\PokemonBattleSim\\PokemonBattleSim.csproj",
+  "projectFilePath": "/home/isniper/code/backend/PokemonBattleSimulator/PokemonBattleSim/PokemonBattleSim.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

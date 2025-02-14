@@ -1,36 +1,37 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net9.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\bosda\\.nuget\\packages\\": {}
+    "/home/isniper/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bosda\\Desktop\\school\\software\\jaar3\\PokemonBattleSim\\PokemonBattleSim\\PokemonBattleSim.csproj",
+      "projectUniqueName": "/home/isniper/code/backend/PokemonBattleSimulator/PokemonBattleSim/PokemonBattleSim.csproj",
       "projectName": "PokemonBattleSim",
-      "projectPath": "C:\\Users\\bosda\\Desktop\\school\\software\\jaar3\\PokemonBattleSim\\PokemonBattleSim\\PokemonBattleSim.csproj",
-      "packagesPath": "C:\\Users\\bosda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bosda\\Desktop\\school\\software\\jaar3\\PokemonBattleSim\\PokemonBattleSim\\obj\\",
+      "projectPath": "/home/isniper/code/backend/PokemonBattleSimulator/PokemonBattleSim/PokemonBattleSim.csproj",
+      "packagesPath": "/home/isniper/.nuget/packages/",
+      "outputPath": "/home/isniper/code/backend/PokemonBattleSimulator/PokemonBattleSim/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bosda\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/isniper/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net9.0"
       ],
       "sources": {
+        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "projectReferences": {}
         }
       },
@@ -38,11 +39,17 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
         "imports": [
           "net461",
           "net462",
@@ -59,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

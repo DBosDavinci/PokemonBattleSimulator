@@ -11,6 +11,11 @@ namespace PokemonBattleSim
             this.belt = belt;
         }
 
+        public List<Pokeball> GetBelt()
+        {
+            return belt;
+        }
+
         public void ThrowPokeball(int number)
         {
             Console.WriteLine(name + " heeft een Pokeball gegooid");

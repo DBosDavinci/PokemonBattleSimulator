@@ -1,0 +1,15 @@
+/home/isniper/code/backend/PokemonBattleSimulator/PokemonBattleSim/bin/Debug/net9.0/PokemonBattleSim
+/home/isniper/code/backend/PokemonBattleSimulator/PokemonBattleSim/bin/Debug/net9.0/PokemonBattleSim.deps.json
+/home/isniper/code/backend/PokemonBattleSimulator/PokemonBattleSim/bin/Debug/net9.0/PokemonBattleSim.runtimeconfig.json
+/home/isniper/code/backend/PokemonBattleSimulator/PokemonBattleSim/bin/Debug/net9.0/PokemonBattleSim.dll
+/home/isniper/code/backend/PokemonBattleSimulator/PokemonBattleSim/bin/Debug/net9.0/PokemonBattleSim.pdb
+/home/isniper/code/backend/PokemonBattleSimulator/PokemonBattleSim/obj/Debug/net9.0/PokemonBattleSim.GeneratedMSBuildEditorConfig.editorconfig
+/home/isniper/code/backend/PokemonBattleSimulator/PokemonBattleSim/obj/Debug/net9.0/PokemonBattleSim.AssemblyInfoInputs.cache
+/home/isniper/code/backend/PokemonBattleSimulator/PokemonBattleSim/obj/Debug/net9.0/PokemonBattleSim.AssemblyInfo.cs
+/home/isniper/code/backend/PokemonBattleSimulator/PokemonBattleSim/obj/Debug/net9.0/PokemonBattleSim.csproj.CoreCompileInputs.cache
+/home/isniper/code/backend/PokemonBattleSimulator/PokemonBattleSim/obj/Debug/net9.0/PokemonBattleSim.sourcelink.json
+/home/isniper/code/backend/PokemonBattleSimulator/PokemonBattleSim/obj/Debug/net9.0/PokemonBattleSim.dll
+/home/isniper/code/backend/PokemonBattleSimulator/PokemonBattleSim/obj/Debug/net9.0/refint/PokemonBattleSim.dll
+/home/isniper/code/backend/PokemonBattleSimulator/PokemonBattleSim/obj/Debug/net9.0/PokemonBattleSim.pdb
+/home/isniper/code/backend/PokemonBattleSimulator/PokemonBattleSim/obj/Debug/net9.0/PokemonBattleSim.genruntimeconfig.cache
+/home/isniper/code/backend/PokemonBattleSimulator/PokemonBattleSim/obj/Debug/net9.0/ref/PokemonBattleSim.dll
