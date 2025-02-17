@@ -16,10 +16,20 @@ namespace PokemonBattleSim
             return belt;
         }
 
-        public void ThrowPokeball(int number)
+        public void SetBelt(List<Pokeball> belt)
+        {
+            this.belt = belt;
+        }
+
+        public string GetName()
+        {
+            return name;
+        }
+
+        public Pokemon ThrowPokeball(int number)
         {
             Console.WriteLine(name + " heeft een Pokeball gegooid");
-            belt[number].Open();
+            return belt[number].Open();
         }
 
         public void ReturnPokemon(int number)

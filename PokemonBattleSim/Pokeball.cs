@@ -9,10 +9,11 @@ namespace PokemonBattleSim
             this.pokemon = pokemon;
         }
 
-        public void Open()
+        public Pokemon Open()
         {
             Console.WriteLine("De Pokeball opent.");
             Console.WriteLine(pokemon.BattleCry());
+            return pokemon;
         }
 
         public void Close()
