@@ -26,7 +26,9 @@
                     trainers.Add(trainer);
                 }
 
-                Console.WriteLine($"De winnaar is: {Battle.battle(trainers).GetName()}");
+                Arena arena = new Arena(trainers);
+
+                Console.WriteLine($"De winnaar is: {arena.StartBattle().GetName()}");
                 running = false;
             }
         }
