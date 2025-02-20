@@ -2,11 +2,11 @@ namespace PokemonBattleSim
 {
     abstract class Pokemon
     {
-        public string name;
-        public string strength;
-        public string weakness;
+        readonly public string name;
+        readonly public PokemonType strength;
+        readonly public PokemonType weakness;
 
-        public Pokemon(string name, string strength, string weakness)
+        public Pokemon(string name, PokemonType strength, PokemonType weakness)
         {
             this.name = name;
             this.strength = strength;

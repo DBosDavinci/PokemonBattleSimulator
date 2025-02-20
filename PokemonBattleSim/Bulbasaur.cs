@@ -3,12 +3,7 @@ namespace PokemonBattleSim
     class Bulbasaur : Pokemon
     {
 
-        public Bulbasaur(string name, string strength, string weakness) : base(name, strength, weakness)
-        {
-            this.name = name;
-            this.strength = strength;
-            this.weakness = weakness;
-        }
+        public Bulbasaur() : base("Bulbasaur", PokemonType.Grass, PokemonType.Fire) {}
 
         override public string BattleCry()
         {

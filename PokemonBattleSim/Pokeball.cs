@@ -1,8 +1,8 @@
 namespace PokemonBattleSim
 {
-    class Pokeball
+    sealed class Pokeball
     {
-        Pokemon pokemon;
+        readonly Pokemon pokemon;
 
         public Pokeball(Pokemon pokemon)
         {
