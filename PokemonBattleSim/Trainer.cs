@@ -1,14 +1,12 @@
 namespace PokemonBattleSim
 {
-    class Trainer
+    class Trainer : Human
     {
-        string name;
         List<Pokeball> belt;
         int maxBeltSize = 6;
 
-        public Trainer(string name, List<Pokeball> belt)
+        public Trainer(string name, List<Pokeball> belt) : base(name)
         {
-            this.name = name;
             this.belt = belt;
 
             if (belt.Count > maxBeltSize)
@@ -26,11 +24,6 @@ namespace PokemonBattleSim
                 throw new ArgumentOutOfRangeException("Too many pokemon on the belt");
 
             this.belt = belt;
-        }
-
-        public string GetName()
-        {
-            return name;
         }
 
         public Pokemon ThrowPokeball(int number)

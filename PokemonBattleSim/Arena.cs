@@ -1,6 +1,6 @@
 namespace PokemonBattleSim
 {
-    class Arena
+    class Arena : Place
     {
         List<Trainer> trainers;
         int totalBattles;
